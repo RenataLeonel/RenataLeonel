@@ -4,7 +4,7 @@
 - 🔭 Hoje trabalho com Java, Spring Boot e Angular 5
 - 🌱 Estudando Spring Boot
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: A paixão por programação me fisgou, troquei de profissão e hoje sou uma Dev Jr!
 
 <div align="center">
   <a href="https://github.com/RenataLeonel">
